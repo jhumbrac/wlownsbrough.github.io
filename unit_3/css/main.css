@@ -1,0 +1,14 @@
+body {
+	background-image: url(../images/molteniron.jpg); 
+	background-size: cover;
+}
+
+.links {
+	color: white;
+}
+
+.section {
+	color: white;
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+}
