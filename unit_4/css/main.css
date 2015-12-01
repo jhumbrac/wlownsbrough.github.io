@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+body {
+	background-image: url(../images/car-wing-mirror-bw.jpg); 
+	background-size: cover;
+}
+
+h1 {
+	font-family: "Oxygen", Arial, serif;
+	color: white;
+}
+
+p, a {
+	font-family: "Lato", Arial, serif;
+	color: white;
+}
